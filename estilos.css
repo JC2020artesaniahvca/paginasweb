@@ -1,0 +1,70 @@
+#titulo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: capitalize;
+	background-color: #003333;
+	border-left-width: 5px;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	color: #FFFFFF;
+	width: 1050px;
+	float: none;
+	text-decoration: none;
+	clip: rect(auto,auto,auto,auto);
+}
+#servicios {
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #996600;
+	text-decoration: underline;
+	font-weight: bold;
+	width: 150px;
+	clip: rect(5px,auto,auto,auto);
+	float: left;
+}
+#productos {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #996600;
+	text-decoration: underline;
+	width: 150px;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	float: left;
+}
+#contactanos {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #996600;
+	text-decoration: underline;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	width: 150px;
+	float: left;
+}
+#ubicanos {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #996600;
+	text-decoration: blink;
+	width: 1050px;
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	float: left;
+}
